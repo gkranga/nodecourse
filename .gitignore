@@ -1,0 +1,3 @@
+./csv2json/node_modules
+./csv2json/package-lock.json
+.csv2json/customer-data.csv
